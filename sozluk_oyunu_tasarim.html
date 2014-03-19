@@ -1,0 +1,215 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body style="padding: 0px; margin: 0px">
+    <form id="form1" runat="server"  style="width: 100%; height: 943px;">
+        <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+        </asp:ToolkitScriptManager>
+
+        <asp:TabContainer ID="TabContainer1" runat="server" ActiveTabIndex="0" 
+            Width="100%" Height="800px" BackColor="#0099FF">
+            <asp:TabPanel runat="server" HeaderText="SORU" ID="TabPanel1" Width="100%" BackColor="Lime">
+            <ContentTemplate> 
+            <div style=" width: 100%; height: 800px; background-color: #00FFFF;" align="center"  >
+            <div style="width: 100%; height: 100px; "></div>
+                <asp:Panel ID="Panel1" runat="server" Height="381px" Width="450px" 
+                    BorderStyle="Dotted">
+                <div style=" height: 50px; background-color: #FF6666;">
+                    <br />
+                    <asp:Label ID="Label6" runat="server" Text="İNGİLİZCE-TÜRKÇE SÖZLÜK" Font-Bold="True" Font-Size="17px"></asp:Label> </div>
+                <div style=" background-color: #FF6666; width: 150px; height: 50px; float: left;">
+                    <br />
+                    <asp:Label ID="Label1" runat="server" Font-Bold="True"  Font-Size="17px" ></asp:Label>
+                </div>
+                <div style=" height: 50px; float: left; background-color: #FF6666">
+                    <br />
+                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                </div>
+                <div style="background-color: #FF6666; height: 50px"> 
+                    <asp:Image ID="Image1" runat="server" Height="40px" Width="40px" /> </div>
+                    <div style=" background-color: #FF6666; width: 150px; height: 50px; float: left;">
+                    <br />
+                    <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Size="17px"></asp:Label>
+                </div>
+                <div style=" height: 50px; float: left; background-color: #FF6666">
+                    <br />
+                    <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+                </div>
+                <div style=" background-color: #FF6666; height: 50px"> 
+                    <asp:Image ID="Image2" runat="server" Height="40px" Width="40px" /> </div>
+                     <div style="background-color: #FF6666; width: 150px; height: 50px; float: left;">
+                    <br />
+                    <asp:Label ID="Label3" runat="server" Font-Bold="True" Font-Size="17px"></asp:Label>
+                </div>
+                <div style="height: 50px; float: left; background-color: #FF6666">
+                    <br />
+                    <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+                </div>
+                <div style="background-color: #FF6666; height: 50px"> 
+                   <asp:Image ID="Image3" runat="server" Height="40px" Width="40px" /> </div>
+                     <div style=" background-color: #FF6666; width: 150px; height: 50px; float: left;">
+                    <br />
+                    <asp:Label ID="Label4" runat="server" Font-Bold="True" Font-Size="17px"></asp:Label>
+                </div>
+                <div style=" height: 50px; float: left; background-color: #FF6666">
+                    <br />
+                    <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+                </div>
+                <div style=" background-color: #FF6666; height: 50px"> 
+                    <asp:Image ID="Image4" runat="server" Height="40px" Width="40px" /> </div>
+                     <div style="background-color: #FF6666; width: 150px; height: 50px; float: left;">
+                    <br />
+                    <asp:Label ID="Label5" runat="server" Font-Bold="True" Font-Size="17px"></asp:Label>
+                </div>
+                <div style="height: 50px; float: left; background-color: #FF6666">
+                    <br />
+                    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+                </div>
+                <div style="background-color: #FF6666; height: 50px"> 
+                    <asp:Image ID="Image5" runat="server" Height="40px" Width="40px" /> </div>
+                    <div style="background-color: #FF6666; height: 80px; width: 230px; float: left; Font-Size:10px; " 
+                        align="right" >
+                        <br />
+                        <asp:Button ID="Button1" runat="server" Text="Cevapla" 
+                            onclick="Button1_Click" BackColor="Aqua" />
+                       </div>
+                       <div style="background-color:#FF6666; height: 80px; Font-Size:10px; " 
+                        align="left">
+                           <br />
+                        <asp:Button ID="Button2" runat="server" Text="Sıradaki" onclick="Button2_Click" 
+                               BackColor="Aqua" />
+                       </div>
+                    
+               
+                 </asp:Panel>
+            </div>
+        
+            </ContentTemplate>
+            </asp:TabPanel>
+            <asp:TabPanel runat="server" HeaderText="EKLE" ID="TabPanel2">
+            <ContentTemplate>
+             <div style=" width: 100%; height: 800px; background-color: #00FFFF;" align="center"  >
+             <div style="width: 100%; height: 100px; "></div>
+             <asp:Panel ID="Panel2" runat="server" Height="350px" Width="550px" 
+                    BorderStyle="Dotted">
+                   
+                    <div style=" height: 50px; background-color: #FF6666;">
+                        <br />
+                        <asp:Button ID="Button3" runat="server" Text="Yeni Kelime Ekle"  
+                            onclick="Button3_Click" BackColor="Aqua" />           
+                    <div style="font-size: 1px; position: absolute; top: -1000px;">
+                        <asp:Button ID="Button4" runat="server" Text="Button" />
+                    </div>
+
+            <!-- ModalPopupExtender -->
+                <asp:ModalPopupExtender ID="ModalPopupExtender1" runat="server" PopupControlID="Panel3" TargetControlID="Button4"
+                 BackgroundCssClass="modalBackground" DynamicServicePath="" 
+                            Enabled="True">
+                  </asp:ModalPopupExtender>
+                           
+                <asp:Panel ID="Panel3" runat="server" CssClass="modalPopup" align="center" style = "display:none" 
+                          Height="340px" Width="450px" BorderStyle="Solid" >
+                          <div style=" width: 100%; height: 340px; background-color: #00FFFF;" align="center"  >
+                          <div style=" background-color: #00CCFF; width: 200px; height: 50px; float: left;" 
+                                  align="left">
+                    <br />
+                    <asp:Label ID="Label12" runat="server" Font-Bold="True"  Font-Size="17px" Text="Kelime Ekle"></asp:Label>
+                    <asp:Label ID="lb_id" runat="server" Font-Bold="True"  Font-Size="1px"></asp:Label>
+                </div>
+                <div style=" height: 50px;  background-color: #00CCFF" align="right">
+                    <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/resimler/images.jpg" Height="40px" Width="40px"  />
+                </div>
+                <div style=" background-color: #FF99FF; width: 200px; height: 50px; float: left;" align="right">
+                    <br />
+                    <asp:Label ID="Label8" runat="server" Font-Bold="True"  Font-Size="17px" Text="İngilizce"></asp:Label>
+                </div>
+                <div style=" height: 50px;  background-color: #FF99FF" align="left">
+                    <br />
+                    <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
+                </div>
+               <div style=" background-color: #FF99FF; width: 200px; height: 50px; float: left;" align="right">
+                    <br />
+                    <asp:Label ID="Label7" runat="server" Font-Bold="True"  Font-Size="17px" Text="Türkçe-1"></asp:Label>
+                </div>
+                <div style=" height: 50px;  background-color: #FF99FF" align="left">
+                    <br />
+                    <asp:TextBox ID="TextBox7" runat="server"></asp:TextBox>
+                </div>   
+                <div style=" background-color: #FF99FF; width: 200px; height: 50px; float: left;" align="right">
+                    <br />
+                    <asp:Label ID="Label9" runat="server" Font-Bold="True"  Font-Size="17px" Text="Türkçe-2" ></asp:Label>
+                </div>
+                <div style=" height: 50px;  background-color: #FF99FF" align="left">
+                    <br />
+                    <asp:TextBox ID="TextBox8" runat="server"></asp:TextBox>
+                </div>
+                
+                <div style=" background-color: #FF99FF; width: 200px; height: 50px; float: left;" align="right">
+                    <br />
+                    <asp:Label ID="Label10" runat="server" Font-Bold="True"  Font-Size="17px" Text="Türkçe-3"></asp:Label>
+                </div>
+                <div style=" height: 50px;  background-color: #FF99FF" align="left">
+                    <br />
+                    <asp:TextBox ID="TextBox9" runat="server"></asp:TextBox>
+                </div>
+                
+                <div style=" background-color: #FF99FF; width: 200px; height: 50px; float: left;" align="right">
+                    <br />
+                    <asp:Label ID="Label11" runat="server" Font-Bold="True"  Font-Size="17px" Text="Türkçe-4" ></asp:Label>
+                </div>
+                <div style=" height: 50px;  background-color: #FF99FF" align="left">
+                    <br />
+                    <asp:TextBox ID="TextBox10" runat="server"></asp:TextBox>
+                </div>
+                 
+        
+              <div style="background-color: #00CCFF; height: 40px;"><asp:Button ID="btnClose" 
+                      runat="server" Text="Kaydet" onclick="btnClose_Click"  /></div>
+              </div></asp:Panel>
+              
+
+<!-- ModalPopupExtender -->
+
+
+
+
+                        <br />
+                    </div>
+                    <div style=" height: 293px; background-color: #FF6666;">
+                        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" 
+                            EnableModelValidation="True" style="margin-left: 0px" Width="213px" DataKeyNames="id" 
+                            onrowdeleted="GridView1_RowDeleted" onrowdeleting="GridView1_RowDeleting" 
+                            onrowediting="GridView1_RowEditing">
+                            <Columns>
+                                <asp:CommandField 
+                                    ShowEditButton="True" ShowDeleteButton="True" />
+                                <asp:BoundField DataField="ingilizce" HeaderText="ingilizce" />
+                                <asp:BoundField DataField="t1" HeaderText="T1" />
+                                <asp:BoundField DataField="t2" HeaderText="T2" />
+                                <asp:BoundField DataField="t3" HeaderText="T3" />
+                                <asp:BoundField DataField="t4" HeaderText="T4" />
+                                <asp:BoundField DataField="id" HeaderText="id" />
+                            </Columns>
+                        </asp:GridView>
+                    </div>
+
+
+              </asp:Panel>
+             </div>
+            </ContentTemplate>
+            </asp:TabPanel>
+        </asp:TabContainer>
+
+       
+    
+    </form>
+</body>
+</html>
+
