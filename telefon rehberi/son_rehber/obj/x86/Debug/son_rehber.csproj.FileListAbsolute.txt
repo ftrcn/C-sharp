@@ -1,0 +1,11 @@
+c:\users\fatma\documents\visual studio 2010\Projects\son_rehber\son_rehber\bin\Debug\son_rehber.exe
+c:\users\fatma\documents\visual studio 2010\Projects\son_rehber\son_rehber\bin\Debug\son_rehber.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.exe
+c:\users\fatma\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.pdb
+C:\Users\FATMA\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.Form2.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.Form3.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.Form4.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.csprojResolveAssemblyReference.cache
+C:\Users\FATMA\documents\visual studio 2010\Projects\son_rehber\son_rehber\obj\x86\Debug\son_rehber.csproj.GenerateResource.Cache
