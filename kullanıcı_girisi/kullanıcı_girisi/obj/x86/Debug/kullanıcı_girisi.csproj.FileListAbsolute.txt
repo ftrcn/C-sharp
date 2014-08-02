@@ -1,0 +1,9 @@
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\bin\Debug\kullanıcı_girisi.exe
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\bin\Debug\kullanıcı_girisi.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.exe
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.frgirisekrani.resources
+c:\users\fatma\documents\visual studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.frAnamenu.resources
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.csprojResolveAssemblyReference.cache
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\kullanıcı_girisi\kullanıcı_girisi\obj\x86\Debug\kullanıcı_girisi.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.frm1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.frm2.resources
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\bin\Debug\denemesifre.exe
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\bin\Debug\denemesifre.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.exe
+c:\users\fatma\documents\visual studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.csprojResolveAssemblyReference.cache
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\denemesifre\denemesifre\obj\x86\Debug\denemesifre.csproj.GenerateResource.Cache

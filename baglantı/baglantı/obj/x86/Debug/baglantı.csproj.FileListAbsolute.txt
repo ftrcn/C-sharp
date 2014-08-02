@@ -1,0 +1,8 @@
+c:\users\fatma\documents\visual studio 2010\Projects\baglantı\baglantı\obj\x86\Debug\baglantı.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\baglantı\baglantı\obj\x86\Debug\baglantı.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\baglantı\baglantı\bin\Debug\baglantı.exe
+c:\users\fatma\documents\visual studio 2010\Projects\baglantı\baglantı\bin\Debug\baglantı.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\baglantı\baglantı\obj\x86\Debug\baglantı.exe
+c:\users\fatma\documents\visual studio 2010\Projects\baglantı\baglantı\obj\x86\Debug\baglantı.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\baglantı\baglantı\obj\x86\Debug\baglantı.csprojResolveAssemblyReference.cache
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\baglantı\baglantı\obj\x86\Debug\baglantı.csproj.GenerateResource.Cache

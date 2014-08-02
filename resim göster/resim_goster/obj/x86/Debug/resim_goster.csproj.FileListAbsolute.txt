@@ -1,0 +1,7 @@
+c:\users\fatma\documents\visual studio 2010\Projects\aaaa\aaaa\bin\Debug\aaaa.exe
+c:\users\fatma\documents\visual studio 2010\Projects\aaaa\aaaa\bin\Debug\aaaa.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\aaaa\aaaa\obj\x86\Debug\aaaa.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\aaaa\aaaa\obj\x86\Debug\aaaa.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\aaaa\aaaa\obj\x86\Debug\aaaa.exe
+c:\users\fatma\documents\visual studio 2010\Projects\aaaa\aaaa\obj\x86\Debug\aaaa.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\aaaa\aaaa\obj\x86\Debug\aaaa.csproj.GenerateResource.Cache

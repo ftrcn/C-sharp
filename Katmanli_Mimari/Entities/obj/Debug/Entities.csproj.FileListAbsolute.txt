@@ -1,0 +1,4 @@
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Entities\bin\Debug\Entities.dll
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Entities\bin\Debug\Entities.pdb
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Entities\obj\Debug\Entities.dll
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Entities\obj\Debug\Entities.pdb

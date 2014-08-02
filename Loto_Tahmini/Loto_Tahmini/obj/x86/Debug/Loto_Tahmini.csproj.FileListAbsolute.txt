@@ -1,0 +1,7 @@
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\bin\Debug\Loto_Tahmini.exe
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\bin\Debug\Loto_Tahmini.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\obj\x86\Debug\Loto_Tahmini.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\obj\x86\Debug\Loto_Tahmini.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\obj\x86\Debug\Loto_Tahmini.csproj.GenerateResource.Cache
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\obj\x86\Debug\Loto_Tahmini.exe
+c:\users\fatma\documents\visual studio 2010\Projects\Loto_Tahmini\Loto_Tahmini\obj\x86\Debug\Loto_Tahmini.pdb

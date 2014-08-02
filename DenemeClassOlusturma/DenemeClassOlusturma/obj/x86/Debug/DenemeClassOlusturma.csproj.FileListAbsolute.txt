@@ -1,0 +1,7 @@
+c:\users\fatma\documents\visual studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\bin\Debug\DenemeClassOlusturma.exe
+c:\users\fatma\documents\visual studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\bin\Debug\DenemeClassOlusturma.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\obj\x86\Debug\DenemeClassOlusturma.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\obj\x86\Debug\DenemeClassOlusturma.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\obj\x86\Debug\DenemeClassOlusturma.exe
+c:\users\fatma\documents\visual studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\obj\x86\Debug\DenemeClassOlusturma.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\DenemeClassOlusturma\DenemeClassOlusturma\obj\x86\Debug\DenemeClassOlusturma.csproj.GenerateResource.Cache

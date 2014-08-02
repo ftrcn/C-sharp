@@ -1,0 +1,8 @@
+c:\users\fatma\documents\visual studio 2010\Projects\hesap\hesap\obj\x86\Debug\hesap.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\hesap\hesap\obj\x86\Debug\hesap.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\hesap\hesap\bin\Debug\hesap.exe
+c:\users\fatma\documents\visual studio 2010\Projects\hesap\hesap\bin\Debug\hesap.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\hesap\hesap\obj\x86\Debug\hesap.exe
+c:\users\fatma\documents\visual studio 2010\Projects\hesap\hesap\obj\x86\Debug\hesap.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\hesap\hesap\obj\x86\Debug\hesap.csprojResolveAssemblyReference.cache
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\hesap\hesap\obj\x86\Debug\hesap.csproj.GenerateResource.Cache

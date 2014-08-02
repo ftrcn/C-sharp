@@ -1,0 +1,12 @@
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\bin\Debug\Katmanli_Mimari.exe
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\bin\Debug\Katmanli_Mimari.pdb
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\bin\Debug\DataLayer.dll
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\bin\Debug\Entities.dll
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\bin\Debug\DataLayer.pdb
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\bin\Debug\Entities.pdb
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\obj\x86\Debug\Katmanli_Mimari.Form1.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\obj\x86\Debug\Katmanli_Mimari.Properties.Resources.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\obj\x86\Debug\Katmanli_Mimari.exe
+C:\Users\FATMA\documents\visual studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\obj\x86\Debug\Katmanli_Mimari.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\obj\x86\Debug\Katmanli_Mimari.csprojResolveAssemblyReference.cache
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\Katmanli_Mimari\Katmanli_Mimari\obj\x86\Debug\Katmanli_Mimari.csproj.GenerateResource.Cache

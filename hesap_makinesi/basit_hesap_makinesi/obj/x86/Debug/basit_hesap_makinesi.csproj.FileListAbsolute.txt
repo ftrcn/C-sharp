@@ -1,0 +1,7 @@
+C:\Users\FATMA\documents\visual studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\basit_hesap_makinesi.exe
+C:\Users\FATMA\documents\visual studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\basit_hesap_makinesi.pdb
+C:\Users\FATMA\documents\visual studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\obj\x86\Debug\basit_hesap_makinesi.Form1.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\obj\x86\Debug\basit_hesap_makinesi.Properties.Resources.resources
+C:\Users\FATMA\documents\visual studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\obj\x86\Debug\basit_hesap_makinesi.exe
+C:\Users\FATMA\documents\visual studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\obj\x86\Debug\basit_hesap_makinesi.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\basit_hesap_makinesi\basit_hesap_makinesi\obj\x86\Debug\basit_hesap_makinesi.csproj.GenerateResource.Cache
