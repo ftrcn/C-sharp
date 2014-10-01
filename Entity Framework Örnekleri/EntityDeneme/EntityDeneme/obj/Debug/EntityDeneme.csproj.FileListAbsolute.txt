@@ -1,0 +1,5 @@
+C:\Users\FATMA\Desktop\EntityDeneme\EntityDeneme\bin\EntityDeneme.dll
+C:\Users\FATMA\Desktop\EntityDeneme\EntityDeneme\bin\EntityDeneme.pdb
+C:\Users\FATMA\Desktop\EntityDeneme\EntityDeneme\obj\Debug\EntityDeneme.dll
+C:\Users\FATMA\Desktop\EntityDeneme\EntityDeneme\obj\Debug\EntityDeneme.pdb
+C:\Users\FATMA\Desktop\EntityDeneme\EntityDeneme\obj\Debug\EntityDeneme.csprojResolveAssemblyReference.cache

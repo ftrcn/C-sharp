@@ -1,0 +1,8 @@
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\bin\Debug\kayıt ekleeee.exe
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\bin\Debug\kayıt ekleeee.pdb
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\obj\x86\Debug\kayıt_ekleeee.Form1.resources
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\obj\x86\Debug\kayıt_ekleeee.Properties.Resources.resources
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\obj\x86\Debug\kayıt ekleeee.csproj.GenerateResource.Cache
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\obj\x86\Debug\kayıt ekleeee.exe
+c:\users\fatma\documents\visual studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\obj\x86\Debug\kayıt ekleeee.pdb
+C:\Users\FATMA\Documents\Visual Studio 2010\Projects\kayıt ekleeee\kayıt ekleeee\obj\x86\Debug\kayıt ekleeee.csprojResolveAssemblyReference.cache
